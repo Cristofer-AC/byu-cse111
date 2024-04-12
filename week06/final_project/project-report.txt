@@ -1,0 +1,60 @@
+Cristofer Miguel Amachi Cervantes
+CSE 111
+
+Second Report for a Student Chosen Project
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=============Example====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2021-12-03      2.5     Wrote two program functions and two test functions
+2021-12-03      .5      Watched video on 
+=============Example====================
+
+=============Cristofer Amachi's Work Table====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2024-04-04      1.5     Brainstormed and planned final program and 
+                        researched applicable articles
+
+2024-04-05      .5      Researched applicable articles
+                1.5     Wrote experimental code with list and dictionaries and
+                        code for my project
+                1.5     Wrote test functions
+                        and debugged my project code
+
+2024-04-08      1       Wrote code for my project with handling error and 
+                        test functions
+                .5      Added more specific statements to my test functions
+                1       Debugged my project code my test code
+                1       Added documentation to my user-defined functions
+                        
+2024-04-09      .5      Searched documentation about strings built-in functions
+                3       Wrote more user-defined functions for my project,
+                        test functions and experimental code for my project,
+                        and error handling code
+
+Total           12 hrs
+
+==============================================================
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.

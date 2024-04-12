@@ -1,0 +1,39 @@
+Time Spent in Project:
+
+Planning apr 04: 30m
+
+Developing apr 05: 3h 30m
+Developing apr 08: 4h
+
+
+Functions:
+    - summarize_list_into_dictionary
+    - read_list
+    - create_list_of_single_value
+    - calculate_highest_number
+    - calculate_finish_date
+
+Test Functions:
+    - test_summarize_list_into_dictionary
+    - test_read_list
+    - test_create_list_of_single_value
+    - test_calculate_highest_number
+    - test_calculate_finish_date
+
+Read Documentation:
+    - reader from Python csv module
+    - string.capitalize()
+    - Example of test code for Grocery assignment on week 05.
+    - Example of calling main function in a safe way when using test program.
+    - tkinter
+    - datetime module
+    - datetime constructor to create dates
+
+Tried Coding Experimentes:
+    - Reading items in a list into a dictionary with its respective keys.
+
+Finished Work on my Program:
+    - Created user-defined functions for reading a csv file into a list.
+    - Created user-defined functions for reading a list into a dictionary
+        and proccess the data by summarizing it.
+    - Created functions to show to the user the results from the dictionary.
